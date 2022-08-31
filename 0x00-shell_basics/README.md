@@ -1,2 +1,1 @@
-My first experience in shell
-script description
+script that prints the absolute path name of the current working directory
