@@ -1,1 +1,1 @@
-My first experience in shell
+Task 0. Where am I?
