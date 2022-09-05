@@ -1,1 +1,1 @@
-Task 0. Where am I?
+script that executes shell redirections
